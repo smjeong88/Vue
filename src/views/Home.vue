@@ -18,7 +18,7 @@
         methods:{
             getData(){
                 alert(this.input);
-            }
+            } 
         },
     };
 </script>
